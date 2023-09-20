@@ -10,7 +10,7 @@ Libraries used:
 
 4)Seaborn - for advanced visualisation
 
-5) NLTK - for text processing
+5)NLTK - for text processing
 
 ![Screenshot (19)](https://github.com/Kunalsrp/Tweets-Analysis-using-Sentimental-Analysis/assets/114215678/3327ef70-3170-446a-a26b-e7baf36f64b2)
 
